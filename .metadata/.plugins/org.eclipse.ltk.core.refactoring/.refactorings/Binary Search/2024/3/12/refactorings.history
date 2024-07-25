@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;leetcode.MountainArray&apos; to &apos;PeakIndexInMountainArray&apos;&#x0D;&#x0A;- Original project: &apos;Binary Search&apos;&#x0D;&#x0A;- Original element: &apos;leetcode.MountainArray&apos;&#x0D;&#x0A;- Renamed element: &apos;leetcode.PeakIndexInMountainArray&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MountainArray&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;leetcode{MountainArray.java[MountainArray" matchStrategy="1" name="PeakIndexInMountainArray" qualified="false" references="true" similarDeclarations="false" stamp="1710763597672" textual="false" version="1.0"/>
+</session>

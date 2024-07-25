@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;matrix_2D_search.SortedMatricSearch&apos; to &apos;SortedMatrixSearch&apos;&#x0D;&#x0A;- Original project: &apos;Binary Search&apos;&#x0D;&#x0A;- Original element: &apos;matrix_2D_search.SortedMatricSearch&apos;&#x0D;&#x0A;- Renamed element: &apos;matrix_2D_search.SortedMatrixSearch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SortedMatricSearch&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;matrix_2D_search{SortedMatricSearch.java[SortedMatricSearch" matchStrategy="1" name="SortedMatrixSearch" qualified="false" references="true" similarDeclarations="false" stamp="1721209872823" textual="false" version="1.0"/>
+</session>
